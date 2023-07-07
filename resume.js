@@ -189,7 +189,7 @@ div.style.paddingInline = "10em"
     //project section
 
     let projectName = ["Photo Gallery with grid using API", "Building resume using only JavaScript (DOM)"];
-    let projectLink = ["https://thunderous-bubblegum-72e37e.netlify.app/", "https://taupe-unicorn-9d3955.netlify.app/"];
+    let projectLink = ["https://thunderous-bubblegum-72e37e.netlify.app/", "https://animated-salamander-721492.netlify.app/"];
     let gitRepoLink = [
         "https://github.com/bhabesh2/webdev_ppt/tree/main/css2/grid-layout",
         "https://github.com/bhabesh2/resumeWithJS/tree/main"
