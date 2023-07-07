@@ -192,7 +192,7 @@ div.style.paddingInline = "10em"
     let projectLink = ["https://thunderous-bubblegum-72e37e.netlify.app/", "https://taupe-unicorn-9d3955.netlify.app/"];
     let gitRepoLink = [
         "https://github.com/bhabesh2/webdev_ppt/tree/main/css2/grid-layout",
-        "https://github.com/bhabesh2/webdev_ppt/tree/main/css2/oneCard-footer"
+        "https://github.com/bhabesh2/resumeWithJS/tree/main"
     ];
     let projectBox = document.createElement('div');
     let title = document.createElement("p");
